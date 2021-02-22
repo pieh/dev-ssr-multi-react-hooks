@@ -1,0 +1,11 @@
+{
+  "name": "dev-ssr-externals-react-wtf2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.0",
+    "react-dom": "17.0.0"
+  }
+}
